@@ -1,13 +1,17 @@
 #include<fstream>
 #include<iostream>
 #include<iomanip>
-
+#include<sstream>
 using namespace std;
 
 struct diena {
 	string d;
 	int x;
 	int t;
+};
+struct dregmes {
+	string di;
+	int dr;
 };
 
 double average(int B[]) {
@@ -24,16 +28,35 @@ bool pirminis(int x) {
 	for (int i=2; i<x; i++) {
 		if (x % i == 0) k++;
 	}
-	return k > 2;
-	
+	return k > 2;	
+}
+
+int dregme(int x, dregmes C[]) {
+	return C[x].dr / 1000;
 }
 
 int main() {
 	ifstream fd("duom.txt");
+	ifstream cc("dreg.csv");
 	ofstream fr("rez.txt");
 	diena A[24*7];
 	int B[7][25] = {0};
-	int n;
+	dregmes C[7];
+	int n, sk=0;
+	string line;
+	
+	while(getline(cc,line)) sk++;
+	cc.clear();
+	cc.seekg(0);
+	
+	for (int i=0; i<sk; i++) {		
+		getline(cc, line);
+		stringstream ss(line);
+		
+		getline(ss, C[i].di, ';');
+		ss >> C[i].dr;
+		ss.ignore();
+	}
 	
 	fd >> n;
 	
@@ -109,9 +132,31 @@ int main() {
 	fr << "-----------------------" << endl;
 	
 	// dregmes iterpimas
-	// ???
+	for (int j=0; j<5; j++) {
+		for (int i=1; i<=B[j][0]; i++) {
+			if (B[j][i] < 0) {
+				int d = dregme(j, C);
+				B[j][i] = d;
+				// cia reikia iterpti dregmes i masyva. 
+				// dregme turi eiti po kiekvieno neigiamo skaiciaus.
+//				for (int y=i; y<=B[j][0]; y++) {
+//					B[j][y+1] = B[j][y];
+//				}
+				i++;
+				B[j][0]++;
+			}
+		}
+	}
+	for (int j=0; j<5; j++) {
+		for (int i=1; i<=B[j][0]; i++) {
+			fr << B[j][i] << " ";
+		}
+		fr << endl;
+	}
+	fr << "-----------------------" << endl;
 	
 	
 	fd.close();
+	cc.close();
 	fr.close();
 }
