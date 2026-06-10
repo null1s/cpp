@@ -1,0 +1,13 @@
+45000 25
+7
+Volkswagen_Polo 44000 24
+Opel_Meriva 29000 24
+Fiat_Panda 46000 5
+Fiat_Panda 39000 23
+Citroen_Berlingo 21000 24
+Opel_Astra 70000 26
+Fiat_Ducato 90000 45
+3
+Volkswagen_Polo 20000 0
+Skoda_Fabia 40000 0
+Volkswagen_Golf 30000 0

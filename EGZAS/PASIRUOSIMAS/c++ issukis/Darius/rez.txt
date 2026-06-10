@@ -1,0 +1,18 @@
+Pirmadienis 8
+Pirmadienis 9
+Pirmadienis 8
+Antradienis 6
+Antradienis 4
+Antradienis 6
+Treciadienis 6
+Treciadienis 6
+Ketvirtadienis 8
+Ketvirtadienis 8
+Penktadienis 9
+
+Vidurkiai: 
+Pirmadienis 1.16667
+Antradienis 4.66667
+Treciadienis 14
+Ketvirtadienis 17
+Penktadienis 51

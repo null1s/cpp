@@ -1,0 +1,26 @@
+25
+Pirmadienis 2
+Antradienis -5
+Treciadienis 6
+Pirmadienis -1
+Pirmadienis 2
+Antradienis 6
+Ketvirtadienis 8
+Pirmadienis -1
+Pirmadienis 2
+Antradienis -5
+Treciadienis 6
+Pirmadienis -1
+Pirmadienis 8
+Antradienis 4
+Ketvirtadienis 2
+Pirmadienis -11
+Pirmadienis 9
+Antradienis 2
+Treciadienis 2
+Pirmadienis -11
+Pirmadienis 0
+Antradienis 6
+Ketvirtadienis 8
+Pirmadienis 8
+Penktadienis 9

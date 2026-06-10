@@ -1,0 +1,2 @@
+Įveskite intervalo pradžią ir pabaigą:
+2; 5

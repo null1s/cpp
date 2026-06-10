@@ -1,0 +1,11 @@
+Pavarde vardas      Butas     Sildymas    Elektra     Vanduo      
+Katinas Batuotas    16        -5.50       -18.20      -45.00      
+Pirmasis Petras     15        5.50        0.00        -54.00      
+Antrutė Jurgita    13        -25.05      2.50        -13.00      
+Katytė Pilkutė    1         0.00        0.00        0.00        
+Basas Algis         14        2.20        2.20        2.20        
+
+Skolininkai:
+Katinas Batuotas    16        -5.50       -18.20      -45.00      
+Pirmasis Petras     15        5.50        0.00        -54.00      
+Antrutė Jurgita    13        -25.05      2.50        -13.00      

@@ -1,0 +1,4 @@
+15.0
+-----------------------
+Dienu skaicius: 1
+Didþiausias temperaturos pokytis: +0.0

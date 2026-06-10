@@ -1,0 +1,5 @@
+Pjaustykliu: 187
+Virduliu: 161
+Mikseriu: 190
+Plaktuviu: 120
+Pagaminta daugiausiai: Mikseriu

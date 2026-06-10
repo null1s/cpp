@@ -1,0 +1,19 @@
+10
+John Peterson;JohPet1238;12a
+Anna Caldwell;AnnCal4560;12b
+Mark Johnson;MarJoh2580;12a
+Ivy Stanton;IvySta3570;12c
+Tom Vance;TomVan1680;12a
+Laura Zuke;LauZuk2490;12a
+Paul Michaels;PauMic3450;12b
+Grace Baldwin;GraBal2670;12c
+Andrew Porter;AndPor6900;12b
+Ellen Rimes;EllRim1590;12b
+JohPet1238;BL;MAT;GEO
+AnnCal4560;BL;MAT;BIO;GEO;ENG;INF;HIS;POL
+MarJoh2580;BL;MAT;HIS
+TomVan1680;BL;HIS;POL
+IvySta3570;MAT;GEO;ENG;INF
+LauZuk2490;BL;MAT;BIO
+PauMic3450;BL;MAT;PHY;CHE
+AndPor6900;BL;MAT

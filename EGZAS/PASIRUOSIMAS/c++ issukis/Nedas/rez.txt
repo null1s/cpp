@@ -1,0 +1,27 @@
+Pirmadienis temperaturos: -11 -11 -1 -1 -1 0 2 2 2 8 8 9 
+Antradienis temperaturos: -5 -5 2 4 6 6 
+Treciadienis temperaturos: 2 6 6 
+Ketvirtadienis temperaturos: 2 8 8 
+Penktadienis temperaturos: 9 
+
+Pirmadienis vidurkis: 0.5
+Antradienis vidurkis: 1.33333
+Treciadienis vidurkis: 4.66667
+Ketvirtadienis vidurkis: 6
+Penktadienis vidurkis: 9
+
+Po salinimo:
+
+Pirmadienis temperaturos: -11 -11 -1 -1 -1 0 8 8 9 
+Antradienis temperaturos: -5 -5 4 6 6 
+Treciadienis temperaturos: 6 6 
+Ketvirtadienis temperaturos: 8 8 
+Penktadienis temperaturos: 9 
+
+Po dregmes iterpimo: 
+
+Pirmadienis temperaturos: -11 (80) -11 (80) -1 (80) -1 (80) -1 (80) 0 8 8 9 
+Antradienis temperaturos: -5 (75) -5 (75) 4 6 6 
+Treciadienis temperaturos: 6 6 
+Ketvirtadienis temperaturos: 8 8 
+Penktadienis temperaturos: 9 

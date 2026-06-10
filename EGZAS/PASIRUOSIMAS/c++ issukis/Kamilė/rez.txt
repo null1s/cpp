@@ -1,0 +1,57 @@
+Temperaturos didejimo tvarka
+Pirmadienis -11
+Pirmadienis -11
+Antradienis -5
+Antradienis -5
+Ketvirtadienis -2
+Pirmadienis -1
+Pirmadienis -1
+Pirmadienis -1
+Pirmadienis 0
+Pirmadienis 2
+Antradienis 2
+Treciadienis 2
+Pirmadienis 2
+Pirmadienis 2
+Antradienis 4
+Treciadienis 6
+Antradienis 6
+Treciadienis 6
+Antradienis 6
+Ketvirtadienis 8
+Pirmadienis 8
+Ketvirtadienis 8
+Pirmadienis 8
+Pirmadienis 9
+Penktadienis 9
+
+Vidutines temperaturos
+Pirmadienis 0.5
+Antradienis 1.33333
+Ketvirtadienis 4.66667
+Treciadienis 4.66667
+Penktadienis 9
+
+Nepirminiai skaiciai
+Pirmadienis -11
+Pirmadienis -11
+Antradienis -5
+Antradienis -5
+Ketvirtadienis -2
+Pirmadienis -1
+Pirmadienis -1
+Pirmadienis -1
+Pirmadienis 0
+Antradienis 4
+Treciadienis 6
+Antradienis 6
+Treciadienis 6
+Antradienis 6
+Ketvirtadienis 8
+Pirmadienis 8
+Ketvirtadienis 8
+Pirmadienis 8
+Pirmadienis 9
+Penktadienis 9
+
+Dregmes duomenys

@@ -1,0 +1,11 @@
+John Peterson JohPet1238 12a 3 BL MAT GEO 
+Anna Caldwell AnnCal4560 12b 8 BL MAT BIO GEO ENG INF HIS POL 
+Mark Johnson MarJoh2580 12a 3 BL MAT HIS 
+Ivy Stanton IvySta3570 12c 4 MAT GEO ENG INF 
+Tom Vance TomVan1680 12a 3 BL HIS POL 
+Laura Zuke LauZuk2490 12a 3 BL MAT BIO 
+Paul Michaels PauMic3450 12b 4 BL MAT PHY CHE 
+Grace Baldwin GraBal2670 12c 0 
+Andrew Porter AndPor6900 12b 2 BL MAT 
+Ellen Rimes EllRim1590 12b 0 
+4 4 2
